@@ -1,0 +1,1 @@
+﻿SELECT Surname FROM EMPLOYEES WHERE Age<22;
